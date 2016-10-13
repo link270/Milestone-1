@@ -1,0 +1,33 @@
+body {
+  background: #53507E;
+}
+
+header {
+  height 37px;
+  width 1100px;
+  margin above 30px;
+  centered;
+  margin below 115px;
+}
+
+header img {
+  height 37px;
+}
+
+nav {
+  float right;
+  font family ‘Raleway’, sans-serif;
+  font weight 800;
+  font size 12px;
+  font color #B1AEDE; //light purple
+  margin left 35px;
+}
+
+nav:hover {
+  font color white;
+}
+
+.left {
+  width 550px;
+  float right;
+}
