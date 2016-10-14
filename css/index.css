@@ -1,3 +1,7 @@
+*, *:after, *:before {
+    box-sizing: border-box;
+}
+
 body {
   background: #53507E;
 }
@@ -121,3 +125,4 @@ footer {
   color: #B1AEDE;
   text-align: center;
 }
+
